@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prernagupta270903@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MjU6OYZ4jrX3XMq5Lr90tt5Owg6YQbN9/view?usp=sharing](https://drive.google.com/file/d/1MjU6OYZ4jrX3XMq5Lr90tt5Owg6YQbN9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1K0TzxGs0o9xPP3O1OmdPB66-KQ1tekBH/view?usp=sharing](https://drive.google.com/file/d/1K0TzxGs0o9xPP3O1OmdPB66-KQ1tekBH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
