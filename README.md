@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prerna Gupta</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst/Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prerna1227&label=Profile%20views&color=0e75b6&style=flat" alt="prerna1227" /> </p>
 
-- 🔭 I’m currently working on [Zomato Customer Behaviour](https://github.com/Prerna1227/Zomato-data-analysis)
+- 🌱 I’m currently learning **Generative AI**
 
-- 🌱 I’m currently learning **Machine Learning , BigQuery**
-
-- 💬 Ask me about **Data Analyst , Google Cloud**
+- 💬 Ask me about **Data Analyst , Google Cloud , Azure, Data Engineer**
 
 - 📫 How to reach me **prernagupta270903@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K0TzxGs0o9xPP3O1OmdPB66-KQ1tekBH/view?usp=sharing](https://drive.google.com/file/d/1K0TzxGs0o9xPP3O1OmdPB66-KQ1tekBH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
